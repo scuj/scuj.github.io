@@ -2,7 +2,7 @@ body {
   text-align: center;
   font-family: Georgia;
   font-weight: bold;
-  background-image: "images/polkadot.jpg";
+  background: url("https://media.istockphoto.com/vectors/seamless-scattered-shiny-golden-glitter-polka-dot-pattern-vector-id505529048?k=6&m=505529048&s=612x612&w=0&h=WsksD3ATz6hcYvJWWYE0BtNsaQ3XwgIZmZqW52ZbK8E=");
   background-size: cover;
 }
 
