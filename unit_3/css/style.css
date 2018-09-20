@@ -10,3 +10,11 @@ hr {
 	color: #000000000;
 	width: 400px;
 }
+
+div {
+	width: 500px;
+	height: 500px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 20px;
+}
