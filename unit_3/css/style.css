@@ -2,10 +2,11 @@ body {
   text-align: center;
   background-color: yellow;
   font-family: Georgia;
+  font-weight: bold;
 
 }
 
 hr {
-	color: #000;
+	color: #000000000;
 	width: 400px;
 }
