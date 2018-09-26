@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Homemade+Apple|Codystar');
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple|Playfair+Display');
 
 h1{
 	text-align: center;
-	font-family: 'Codystar', cursive;
+	font-family: 'Playfair Display', serif;
 	font-weight: bold;
 }
 
