@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Homemade+Apple|Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple|Playfair+Display+SC');
 
 h1{
 	text-align: center;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Playfair Display SC', serif;
 	font-weight: bold;
 }
 
